@@ -251,3 +251,15 @@ a:hover {
 .cf {
   zoom:1;
 }
+
+/* CSS In Space */
+
+input#mce-EMAIL {
+  background-color: transparent;
+  border: 1px dashed #eaeaea;
+  text-color: #eaeaea;
+}
+
+input#mc-embedded-subscribe:hober {
+  cursor: pointer;
+}
